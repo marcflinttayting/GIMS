@@ -1,0 +1,15 @@
+D:\MarcForFun\Mycellium\GIMS\GIMS.Dtoo\bin\Debug\GIMS.Dtoo.dll
+D:\MarcForFun\Mycellium\GIMS\GIMS.Dtoo\bin\Debug\GIMS.Dtoo.pdb
+D:\MarcForFun\Mycellium\GIMS\GIMS.Dtoo\bin\Debug\BLToolkit.4.dll
+D:\MarcForFun\Mycellium\GIMS\GIMS.Dtoo\obj\Debug\GIMS.Dto.csprojAssemblyReference.cache
+D:\MarcForFun\Mycellium\GIMS\GIMS.Dtoo\obj\Debug\GIMS.Dto.csproj.CoreCompileInputs.cache
+D:\MarcForFun\Mycellium\GIMS\GIMS.Dtoo\obj\Debug\GIMS.Dto.csproj.CopyComplete
+D:\MarcForFun\Mycellium\GIMS\GIMS.Dtoo\obj\Debug\GIMS.Dtoo.dll
+D:\MarcForFun\Mycellium\GIMS\GIMS.Dtoo\obj\Debug\GIMS.Dtoo.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\bin\Debug\GIMS.Dto.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\bin\Debug\GIMS.Dto.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\bin\Debug\BLToolkit.4.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\obj\Debug\GIMS.Dto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\obj\Debug\GIMS.Dto.csproj.CopyComplete
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\obj\Debug\GIMS.Dto.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\obj\Debug\GIMS.Dto.pdb

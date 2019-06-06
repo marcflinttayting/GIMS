@@ -1,0 +1,28 @@
+D:\MarcForFun\Mycellium\GIMS\GIMS.DataLayer\bin\Debug\GIMS.DataLayer.dll.config
+D:\MarcForFun\Mycellium\GIMS\GIMS.DataLayer\bin\Debug\GIMS.DataLayer.dll
+D:\MarcForFun\Mycellium\GIMS\GIMS.DataLayer\bin\Debug\GIMS.DataLayer.pdb
+D:\MarcForFun\Mycellium\GIMS\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.csprojAssemblyReference.cache
+D:\MarcForFun\Mycellium\GIMS\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.csproj.CoreCompileInputs.cache
+D:\MarcForFun\Mycellium\GIMS\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.dll
+D:\MarcForFun\Mycellium\GIMS\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Debug\GIMS.DataLayer.dll.config
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Debug\GIMS.DataLayer.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Debug\GIMS.DataLayer.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Debug\BLToolkit.4.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.csproj.CopyComplete
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\bin\Debug\GIMS.DataLayer.dll.config
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\bin\Debug\GIMS.DataLayer.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\bin\Debug\GIMS.DataLayer.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\bin\Debug\BLToolkit.4.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\bin\Debug\Dapper.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\bin\Debug\Dapper.xml
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.csproj.CoreCompileInputs.cache
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.csproj.CopyComplete
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.DataLayer\obj\Debug\GIMS.DataLayer.pdb

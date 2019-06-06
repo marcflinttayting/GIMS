@@ -1,0 +1,58 @@
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\GIMS.exe.config
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\GIMS.exe
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\GIMS.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\Autofac.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\GIMS.DataLayer.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\GIMS.Domain.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\MaterialSkin.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\BLToolkit.4.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\GIMS.DataLayer.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\GIMS.DataLayer.dll.config
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\GIMS.Domain.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\Autofac.xml
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.App.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.Dashboard.resources
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.Lobby.resources
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.Properties.Resources.resources
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.Supplier.UpdateSupplier.resources
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.Transactions.Deliveries.resources
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.App.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.App.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.App.csproj.CopyComplete
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.exe
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS\obj\Debug\GIMS.Supplier.NewSupplier.resources
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.exe.config
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.exe
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\Autofac.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.DataLayer.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.Domain.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\log4net.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\MaterialSkin.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\Newtonsoft.Json.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\BLToolkit.4.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\Dapper.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.DataLayer.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.DataLayer.dll.config
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.Domain.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\Autofac.xml
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\log4net.xml
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\Dapper.xml
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.App.csprojAssemblyReference.cache
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.Dashboard.resources
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.Lobby.resources
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.Properties.Resources.resources
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.Supplier.NewSupplier.resources
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.Supplier.frmUpdateSupplier.resources
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.Transactions.Deliveries.resources
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.App.csproj.GenerateResource.cache
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.App.csproj.CoreCompileInputs.cache
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.App.csproj.CopyComplete
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.exe
+D:\MarcForFun\Mycellium\Inventory\GIMS\obj\Debug\GIMS.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.Helper.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS\bin\Debug\GIMS.Helper.pdb

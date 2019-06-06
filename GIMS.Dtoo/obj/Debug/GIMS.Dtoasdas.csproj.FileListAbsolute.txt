@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\bin\Debug\GIMS.Dto.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\bin\Debug\GIMS.Dto.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\bin\Debug\BLToolkit.4.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\obj\Debug\GIMS.Dtoasdas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\obj\Debug\GIMS.Dtoasdas.csproj.CopyComplete
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\obj\Debug\GIMS.Dto.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dtoo\obj\Debug\GIMS.Dto.pdb

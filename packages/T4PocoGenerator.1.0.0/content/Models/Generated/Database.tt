@@ -1,0 +1,33 @@
+<# /*
+ This code was written by Ed Tyler
+ It is a modified version of Database.tt which is part of the PetaPoco project (http://www.toptensoftware.com/petapoco).
+ */ #>
+<#@ include file="PetaPoco.Core.ttinclude" #>
+<#
+	// Settings
+    ConnectionStringName = "YourModelName";			// Uses last connection string in config if not specified
+    Namespace = "YourNamespace";
+    RepoName = "";   
+	ClassPrefix = "";
+	ClassSuffix = "";	
+
+    // Read schema
+	var tables = LoadTables();
+
+
+/*
+	// Tweak Schema
+	tables["tablename"].Ignore = true;							// To ignore a table
+	tables["tablename"].ClassName = "newname";					// To change the class name of a table
+	tables["tablename"]["columnname"].Ignore = true;			// To ignore a column
+	tables["tablename"]["columnname"].PropertyName="newname";	// To change the property name of a column
+	tables["tablename"]["columnname"].PropertyType="bool";		// To change the property type of a column
+*/
+
+	// Generate output
+	if (tables.Count>0)
+	{
+#>
+<#@ include file="Poco.Generator.ttinclude" #>
+<# } #>
+

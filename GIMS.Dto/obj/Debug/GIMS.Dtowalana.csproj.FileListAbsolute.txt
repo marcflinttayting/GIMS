@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dto\bin\Debug\GIMS.Dto.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dto\bin\Debug\GIMS.Dto.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dto\obj\Debug\GIMS.Dtowalana.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dto\obj\Debug\GIMS.Dtowalana.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dto\obj\Debug\GIMS.Dto.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Dto\obj\Debug\GIMS.Dto.pdb

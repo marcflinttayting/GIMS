@@ -1,0 +1,20 @@
+﻿<#@ template language="C#" hostspecific="True"  #>
+<#@ output extension=".generated.cs"   #>
+<#@ include file="BLTemplates\BLToolkit.ttinclude"   #>
+<#@ include file="BLTemplates\PluralSingular.ttinclude" #>
+<#@ include file="BLTemplates\MSSQL.ttinclude" #>
+<#
+	ConnectionString = "Data Source=HP;Initial Catalog=GIMS;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+	     
+	Namespace        = "GIMS.Db";
+	DataContextName  = "GimsDb"; 
+	 
+	LoadMetadata();
+
+	SingularizeClassNames = true;
+	foreach (var t in Tables.Values)
+		if (t.TableName == "Sample_Data")
+		   t.ClassName="SampleData";
+			
+	GenerateModel();
+#>

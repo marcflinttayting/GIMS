@@ -1,0 +1,12 @@
+D:\MarcForFun\Mycellium\GIMS\GIMS\bin\Debug\GIMS.exe.config
+D:\MarcForFun\Mycellium\GIMS\GIMS\bin\Debug\GIMS.exe
+D:\MarcForFun\Mycellium\GIMS\GIMS\bin\Debug\GIMS.pdb
+D:\MarcForFun\Mycellium\GIMS\GIMS\obj\Debug\GIMS.csprojAssemblyReference.cache
+D:\MarcForFun\Mycellium\GIMS\GIMS\obj\Debug\GIMS.Properties.Resources.resources
+D:\MarcForFun\Mycellium\GIMS\GIMS\obj\Debug\GIMS.csproj.GenerateResource.cache
+D:\MarcForFun\Mycellium\GIMS\GIMS\obj\Debug\GIMS.csproj.CoreCompileInputs.cache
+D:\MarcForFun\Mycellium\GIMS\GIMS\obj\Debug\GIMS.exe
+D:\MarcForFun\Mycellium\GIMS\GIMS\obj\Debug\GIMS.pdb
+D:\MarcForFun\Mycellium\GIMS\GIMS\obj\Debug\GIMS.Lobby.resources
+D:\MarcForFun\Mycellium\GIMS\GIMS\obj\Debug\GIMS.Supplier.AddSupplier.resources
+D:\MarcForFun\Mycellium\GIMS\GIMS\obj\Debug\GIMS.Dashboard.resources

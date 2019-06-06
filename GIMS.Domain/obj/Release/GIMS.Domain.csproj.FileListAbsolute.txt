@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Release\GIMS.Domain.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Release\GIMS.Domain.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Release\GIMS.DataLayer.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Release\BLToolkit.4.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Release\Dapper.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Release\GIMS.DataLayer.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Release\GIMS.DataLayer.dll.config
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Release\Dapper.xml
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Release\GIMS.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Release\GIMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Release\GIMS.Domain.csproj.CopyComplete
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Release\GIMS.Domain.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Release\GIMS.Domain.pdb

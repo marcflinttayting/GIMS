@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Release\GIMS.DataLayer.dll.config
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Release\GIMS.DataLayer.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Release\GIMS.DataLayer.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Release\BLToolkit.4.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Release\Dapper.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\bin\Release\Dapper.xml
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Release\GIMS.DataLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Release\GIMS.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Release\GIMS.DataLayer.csproj.CopyComplete
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Release\GIMS.DataLayer.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.DataLayer\obj\Release\GIMS.DataLayer.pdb

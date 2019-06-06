@@ -1,0 +1,9 @@
+D:\MarcForFun\Mycellium\Inventory\GIMS.Helper\obj\Debug\GIMS.Helper.csproj.CoreCompileInputs.cache
+D:\MarcForFun\Mycellium\Inventory\GIMS.Helper\bin\Debug\GIMS.Helper.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Helper\bin\Debug\GIMS.Helper.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS.Helper\bin\Debug\log4net.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Helper\bin\Debug\log4net.xml
+D:\MarcForFun\Mycellium\Inventory\GIMS.Helper\obj\Debug\GIMS.Helper.csprojAssemblyReference.cache
+D:\MarcForFun\Mycellium\Inventory\GIMS.Helper\obj\Debug\GIMS.Helper.csproj.CopyComplete
+D:\MarcForFun\Mycellium\Inventory\GIMS.Helper\obj\Debug\GIMS.Helper.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Helper\obj\Debug\GIMS.Helper.pdb

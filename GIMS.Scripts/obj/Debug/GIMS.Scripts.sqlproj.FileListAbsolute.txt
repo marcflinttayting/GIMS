@@ -1,0 +1,6 @@
+D:\MarcForFun\Mycellium\Inventory\GIMS.Scripts\bin\Debug\GIMS.Scripts.dacpac
+D:\MarcForFun\Mycellium\Inventory\GIMS.Scripts\bin\Debug\GIMS.Scripts.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Scripts\bin\Debug\GIMS.Scripts.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS.Scripts\obj\Debug\GIMS.Scripts.sqlprojAssemblyReference.cache
+D:\MarcForFun\Mycellium\Inventory\GIMS.Scripts\obj\Debug\GIMS.Scripts.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Scripts\obj\Debug\GIMS.Scripts.pdb

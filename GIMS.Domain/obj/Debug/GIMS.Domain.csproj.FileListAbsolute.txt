@@ -1,0 +1,38 @@
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\bin\Debug\GIMS.Domain.dll
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\bin\Debug\GIMS.Domain.pdb
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\bin\Debug\GIMS.DataLayer.dll
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\bin\Debug\GIMS.DataLayer.pdb
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\bin\Debug\GIMS.DataLayer.dll.config
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\obj\Debug\GIMS.Domain.csprojAssemblyReference.cache
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\obj\Debug\GIMS.Domain.csproj.CoreCompileInputs.cache
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\obj\Debug\GIMS.Domain.csproj.CopyComplete
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\obj\Debug\GIMS.Domain.dll
+D:\MarcForFun\Mycellium\GIMS\GIMS.Domain\obj\Debug\GIMS.Domain.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Debug\GIMS.Domain.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Debug\GIMS.Domain.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Debug\GIMS.DataLayer.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Debug\BLToolkit.4.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Debug\GIMS.DataLayer.pdb
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Debug\GIMS.DataLayer.dll.config
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.csproj.CopyComplete
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.dll
+C:\Users\user\Desktop\Mycellium\GIM System\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\bin\Debug\GIMS.Domain.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\bin\Debug\GIMS.Domain.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\bin\Debug\GIMS.DataLayer.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\bin\Debug\BLToolkit.4.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\bin\Debug\Dapper.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\bin\Debug\GIMS.DataLayer.pdb
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\bin\Debug\GIMS.DataLayer.dll.config
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\bin\Debug\Dapper.xml
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.csprojAssemblyReference.cache
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.csproj.CoreCompileInputs.cache
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.csproj.CopyComplete
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.dll
+D:\MarcForFun\Mycellium\Inventory\GIMS.Domain\obj\Debug\GIMS.Domain.pdb
